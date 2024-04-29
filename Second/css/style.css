@@ -1,19 +1,42 @@
-body{
+/* * {
+    font-family: monospace;
+    border: 1px solid red;
+} */
+
+body {
     font-size: 22px;
+}
+
+main {
+    font-family: monospace;
+}
+
+button, input, textarea, select {
+    font: inherit;
 }
 
 h1, h2 {
     color: blue;
 }
 
-p{
-    color: purple;
+p {
+    color: purple!important;
 }
 
-.gray{
+/* use !important flag to make it override the style */
+p {
+    color: red;
+    /* border: 1px solid red; */
+}
+.highlight {
+    text-transform: uppercase;
+    background-color: gold;
+}
+
+.gray {
     color: gray;
 }
 
-#second{
+#second {
     font-style: italic;
 }
