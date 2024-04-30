@@ -1,0 +1,17 @@
+body {
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.5;
+    background: papayawhip;
+    /* color: rgb(137, 120, 20); */
+    color: rgb(0, 0, 0);
+
+}
+
+
+p {
+    color: #333;
+}
+
+/* Color hex code can be paired */
+/* like #F00 for #FF0000 */
