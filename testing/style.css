@@ -1,0 +1,32 @@
+/* * {
+    border: 1px solid #F00;
+} */
+
+body {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 22px;
+    /* border: 1px solid #F00; */
+    background-color: #416788;
+    text-align: center;
+}
+
+input {
+    background-color: #E0E0E2;
+    text-align: center;
+    font-size: large;
+}
+
+button {
+    font-size: 22px;
+    border-radius: 18px;
+    cursor: pointer;
+}
+
+ul {
+    cursor: pointer;
+    text-align: left;
+}
+
+li {
+    color: #7389AE;
+}
