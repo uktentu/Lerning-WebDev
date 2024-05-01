@@ -5,7 +5,7 @@
 | 1    | Starting         | 29-04-2024      | ✅           |
 | 2    | CSS Selectors    | 29-04-2024      | ✅           |
 | 3    | Colors           | 30-04-2024      | ✅           |
-| 4    | Units and Sizes  | 01-05-2024      | ⚪           |
+| 4    | Units and Sizes  | 01-05-2024      | ✅           |
 | 5    | Box Model        | 02-05-2024      | ⚪           |
 | 6    | Typography       | 03-05-2024      | ⚪           |
 | 7    | Styling Links    | 04-05-2024      | ⚪           |
